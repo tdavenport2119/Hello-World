@@ -1,4 +1,6 @@
 # Hello-World
 Just another repository
 
-I am an artist first and a nurse second.
+Hi Humans!
+Hubot here, I like Node.js and Coffescript (that's what I'm made of!).
+I've had tacos on the moon and Find ther far superior to Earth tacos. 
